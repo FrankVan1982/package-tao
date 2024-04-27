@@ -22,6 +22,6 @@
   "minimum-stability": "stable",
   "prefer-stable": true,
   "require": {
-    "oat-sa/tao-community": "2024.04.2"
+    "FrankVan1982/tao-community": "2024.04.2"
   }
 }
