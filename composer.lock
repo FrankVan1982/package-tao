@@ -143,7 +143,7 @@
         },
         {
             "name": "codercat/jwk-to-pem",
-            "version": "1.0",
+            "version": "1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/acodercat/php-jwk-to-pem.git",
@@ -151,8 +151,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/acodercat/php-jwk-to-pem/zipball/e428b7abba5b37676e30e968930f718cf26724ac",
-                "reference": "e428b7abba5b37676e30e968930f718cf26724ac",
+                "url": "https://codeload.github.com/acodercat/php-jwk-to-pem/zip/refs/tags/1.1",
                 "shasum": ""
             },
             "require": {
@@ -181,7 +180,7 @@
             "description": "Convert JWK to PEM format.",
             "support": {
                 "issues": "https://github.com/acodercat/php-jwk-to-pem/issues",
-                "source": "https://github.com/acodercat/php-jwk-to-pem/tree/1.0"
+                "source": "https://github.com/acodercat/php-jwk-to-pem/tree/1.1"
             },
             "time": "2020-11-12T05:40:03+00:00"
         },
