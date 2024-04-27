@@ -1,5 +1,5 @@
 {
-  "name": "oat-sa/tao-package",
+  "name": "oat-sa/package-tao",
   "description": "TAO is an Open Source Assessment platform that empowers you to build, deliver, and share innovative and engaging assessments online \u2013 in any language or subject matter.",
   "license": "GPL-2.0-only",
   "support": {
@@ -13,17 +13,18 @@
     }
   ],
   "keywords": [
-    "TAO Community - Open Source Assessment Software ",
+    "TAO Community - Open Source Assessment Software",
     "Tao",
     "oat",
     "open source",
     "release 4.0",
-    "computer-based-assessment"
+    "computer-based-assessment",
+    "tao"
   ],
   "homepage": "http://www.taotesting.com",
   "minimum-stability": "stable",
   "prefer-stable": true,
   "require": {
-    "oat-sa/tao-community": "2022.11.6"
+    "oat-sa/tao-community": "2024.04.1"
   }
 }
