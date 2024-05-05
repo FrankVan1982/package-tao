@@ -1,5 +1,5 @@
 {
-  "name": "FrankVan1982/package-tao",
+  "name": "oat-sa/package-tao",
   "description": "TAO is an Open Source Assessment platform that empowers you to build, deliver, and share innovative and engaging assessments online \u2013 in any language or subject matter.",
   "license": "GPL-2.0-only"
   },
@@ -22,6 +22,6 @@
   "minimum-stability": "stable",
   "prefer-stable": true,
   "require": {
-    "FrankVan1982/tao-community": "2024.04.2"
+    "oat-sa/tao-community": "2024.05"
   }
 }
